@@ -124,7 +124,7 @@ button[data-start]:disabled {
   text-decoration: underline;
 }
 
-{
+* {
   box-sizing: border-box;
 }
 
